@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_apple_launcher_background.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_apple_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxhdpi_ic_apple_launcher_foreground.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxhdpi/ic_apple_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-anydpi-v26_ic_apple_launcher.xml.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-anydpi-v26/ic_apple_launcher.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.agenda.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-hdpi_ic_apple_launcher_foreground.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-hdpi/ic_apple_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_rounded_edittext.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/rounded_edittext.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-mdpi_ic_apple_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-mdpi/ic_apple_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xhdpi_ic_apple_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xhdpi/ic_apple_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxxhdpi_ic_apple_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxxhdpi/ic_apple_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-mdpi_ic_apple_launcher_foreground.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-mdpi/ic_apple_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/layout_item_contacto.xml.flat",
+        "source": "com.example.agenda.app-main-37:/layout/item_contacto.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ice_dit.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ice_dit.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_rounded_button.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_delete.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-hdpi_ic_apple_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-hdpi/ic_apple_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_visibility.png.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_visibility.png"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_img.png.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-anydpi-v26_ic_apple_launcher_round.xml.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-anydpi-v26/ic_apple_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_save.png.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_save.png"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xhdpi_ic_apple_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xhdpi/ic_apple_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/xml_backup_rules.xml.flat",
+        "source": "com.example.agenda.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/layout_activity_agregar_contacto.xml.flat",
+        "source": "com.example.agenda.app-main-37:/layout/activity_agregar_contacto.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxhdpi_ic_apple_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxhdpi/ic_apple_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxxhdpi_ic_apple_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxxhdpi/ic_apple_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxxhdpi_ic_apple_launcher_foreground.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxxhdpi/ic_apple_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_rounde_button.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/rounde_button.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxhdpi_ic_apple_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxhdpi/ic_apple_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/layout_activity_ver_contacto.xml.flat",
+        "source": "com.example.agenda.app-main-37:/layout/activity_ver_contacto.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.agenda.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_save1.png.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_save1.png"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xhdpi_ic_apple_launcher_foreground.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xhdpi/ic_apple_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-hdpi_ic_apple_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-hdpi/ic_apple_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/layout_activity_modificar_contacto.xml.flat",
+        "source": "com.example.agenda.app-main-37:/layout/activity_modificar_contacto.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_rounded_edittext_background.xml.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/rounded_edittext_background.xml"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/drawable_ic_buscar.png.flat",
+        "source": "com.example.agenda.app-main-37:/drawable/ic_buscar.png"
+    },
+    {
+        "merged": "com.example.agenda.app-debug-35:/mipmap-mdpi_ic_apple_launcher.webp.flat",
+        "source": "com.example.agenda.app-main-37:/mipmap-mdpi/ic_apple_launcher.webp"
+    }
+]
